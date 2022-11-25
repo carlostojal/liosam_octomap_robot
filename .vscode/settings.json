@@ -1,0 +1,10 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/media/safeforest/Barracuda/Roboshot/Source/liosam_octomap_test/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/media/safeforest/Barracuda/Roboshot/Source/liosam_octomap_test/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
+}
